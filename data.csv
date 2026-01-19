@@ -1,0 +1,11 @@
+student_id,name,age,gender,department,semester,marks,attendance_percentage
+1,Ali,20,M,Computer Science,2,85,92
+2,Ayesha,21,F,Computer Science,4,78,88
+3,Ahmed,22,M,Software Engineering,6,90,95
+4,Fatima,19,F,Information Technology,2,65,80
+5,Hamza,23,M,Computer Science,8,72,85
+6,Sara,21,F,Software Engineering,4,88,90
+7,Usman,20,M,Information Technology,2,55,70
+8,Hina,22,F,Computer Science,6,92,97
+9,Bilal,24,M,Software Engineering,8,60,75
+10,Zainab,19,F,Information Technology,1,83,89
